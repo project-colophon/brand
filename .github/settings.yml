@@ -4,5 +4,3 @@ repository:
   name: brand
   description: 🎨 brand files for colophon.id
   topics: colophon, brand
-  homepage: https://colophon.id
-  has_issues: false
