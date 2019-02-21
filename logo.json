@@ -1,0 +1,21 @@
+{
+  "size": {
+    "width": 1000,
+    "height": 500,
+    "scale": 0.2,
+    "padding": 25
+  },
+  "title": {
+    "text": "Colophon",
+    "font": {
+      "name": "Pacifico-Regular",
+      "path": "Lato-Light.ttf",
+      "color": "#b47d56",
+      "source": "http://www.latofonts.com/lato-free-fonts/"
+    }
+  },
+  "icon": {
+    "path": "icon.svg",
+    "source": "https://www.emojione.com/emoji/1f4cb"
+  }
+}
